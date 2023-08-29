@@ -494,13 +494,15 @@ a.navbar-brand {
     padding: 20% 0 15% 0;
 }
 
-.banner .intro-text h1 {    
+.banner .intro-text h1 {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
     letter-spacing: 5px;
     margin-bottom: 55px;
-   /* -webkit-animation: bounceIn;
+    color: #E2A126 !important;
+    text-shadow: 2px 0 2px #000, 0 2px 2px #000, -2px 0 2px #000, 0 -2px 2px #000;
+    /* -webkit-animation: bounceIn;
     -moz-animation: rubberBand;
     -o-animation: bounceIn;
     animation: bounceIn;
