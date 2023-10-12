@@ -19,7 +19,7 @@
     <Folder Include="wwwroot\asset\css\" />
     <Folder Include="wwwroot\asset\font-awesome\css\" />
     <Folder Include="wwwroot\asset\js\" />
-    <Folder Include="wwwroot\asset\images\" />
+    <Folder Include="wwwroot\asset\fonts\" />
     <Folder Include="_framework\" />
     <Folder Include="_vs\" />
   </ItemGroup>

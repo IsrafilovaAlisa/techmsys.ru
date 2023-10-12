@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+@font-face {
+    font-family: 'Noto Sans HK';
+    src: url(/asset/fonts/NotoSansHK-Black.otf);
+}
