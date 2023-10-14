@@ -16,7 +16,28 @@ html {
 body {
   margin-bottom: 60px;
 }
+
 @font-face {
-    font-family: 'Noto Sans HK';
-    src: url(/asset/fonts/NotoSansHK-Black.otf);
+    font-family: 'notosanshk-black';
+    src: url('../asset/fonts/notosanshk-black.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosanshk-bold';
+    src: url('../asset/fonts/notosanshk-bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosanshk-light';
+    src: url('../asset/fonts/notosanshk-light.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosanshk-medium';
+    src: url('../asset/fonts/notosanshk-medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosanshk-regular';
+    src: url('../asset/fonts/notosanshk-regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosanshk-thin';
+    src: url('../asset/fonts/notosanshk-thin.otf') format('opentype');
 }
