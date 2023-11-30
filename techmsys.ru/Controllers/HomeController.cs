@@ -45,10 +45,10 @@ namespace techmsys.ru.Controllers
         {
             return View();
         }
-        public IActionResult MobileInspection()
-        {
-            return View();
-        }
+        //public IActionResult MobileInspection()
+        //{
+        //    return View();
+        //}
 
         public IActionResult PersonnelMonitoring()
         {
